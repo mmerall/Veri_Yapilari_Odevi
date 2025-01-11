@@ -1,0 +1,3 @@
+Hocam Merhaba,
+İşlem yapacağınız büyük veriyi Dna.txt nin içine atar mısınız okuma yolu olarak kendi Dna.txt dosyamı gösterdim de
+(islemler.txt dosyam için de aynı şeyler geçerli)
